@@ -12,10 +12,14 @@ If you'd rather keep your issue out of public eye, please write to <ins>hello AT
 
 At the time of this writing, GitHoot is missing a bunch of rather important features, but we're working on those. That said, we'd like to keep GitHoot minimal and feature poor without it losing its usefulness. Generally speaking we would rather avoid feature galore emblematic of so many other web services. In no particular order here are a few things coming to GitHoot soon:
 
-- [ ] #1
+- [ ] [Generate list of GitHoot feeds for user follows on GitHub and Twitter](https://github.com/fullmeta-dev/githoot-public/issues/1)
+- [ ] [Gracefully handle hoot deletion](https://github.com/fullmeta-dev/githoot-public/issues/2)
 - [ ] Your online identities signed and verified
 
 If you still think GitHoot is missing something vital, feel free to bring it up in [Issues][].
 
+# Want to leave feedback?
+
+Weather you find GitHoot useful or frustrating, shoot an email to <ins>hello AT git.ht</ins>. The good will keep our spirits up, the bad we maybe able to fix. Thank you.
 
 [Issues]: https://github.com/fullmeta-dev/githoot-public/issues
